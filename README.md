@@ -1,2 +1,2 @@
 # George
-cv
+First STATIC WEB PAGE 
